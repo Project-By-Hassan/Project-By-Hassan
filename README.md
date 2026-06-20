@@ -1,60 +1,155 @@
-# 🌌 Project-By-Hassan | Hassan Raza Awan
-### 🧠 Artificial Intelligence Student & Systems Developer
-<p align="left">
-  <img src="https://img.shields.io/badge/System_Status-Active_⚡-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Pakistan_🇵🇰-006633?style=flat-square" />
-  <img src="https://img.shields.io/badge/Academic_Level-BS_AI-8B5CF6?style=flat-square" />
+<!-- ELITE HEADER -->
+<h1 align="center">Hassan Raza</h1>
+
+<h3 align="center">
+AI Developer • Systems Architect • Machine Learning Engineer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Optimizing+Algorithms+and+Data+Structures;Machine+Learning+%7C+Deep+Learning+%7C+NLP;C%2B%2B+%7C+Python+%7C+System+Design;Turning+Data+into+Decisions" />
 </p>
 
 ---
 
-## 👨‍💻 PROFESSIONAL BIO & OVERVIEW
-I am a dedicated **Artificial Intelligence Developer** focusing on designing memory-optimized algorithms, training robust neural pipelines, and structuring highly-normalized, enterprise-grade data architectures. 
+## 🧠 PROFESSIONAL SUMMARY
 
-* 🔬 **Core Focus:** Exploring deep neural network weights, feature engineering, and predictive modeling.
-* ⚡ **Systems Mindset:** Writing clean, ultra-fast, and hardware-conscious code.
-* 🛠️ **Design Philosophy:** Building modular, reusable codebase and production-ready intelligent applications.
+I am an **Artificial Intelligence Developer and Systems Architect** specializing in:
 
----
+- High-performance algorithm design  
+- Machine learning optimization systems  
+- Scalable data-driven architectures  
+- Intelligent automation pipelines  
 
-## 💼 WORKS & EXPERTISE
-
-* 🤖 **AI & Deep Learning Pipelines:** Developing data pre-processing scripts, feature selection, and training machine learning models from scratch.
-* 💻 **Object-Oriented Architecture:** Building complex software systems using advanced programming patterns and operator optimization in desktop environments.
-* 🗄️ **Database Normalization:** Creating secure, redundancy-free structural schemas optimized up to advanced normal forms (BCNF, 4NF, 5NF).
-* 📈 **Interactive Prototyping:** Deploying standalone web tools for testing machine learning models instantly.
+I focus on bridging **low-level system efficiency (C++)** with **high-level AI intelligence (Python)** to build production-ready intelligent systems.
 
 ---
 
-## 🛠️ EXPERT TECH ECOSYSTEM
+## 🎯 CORE EXPERTISE
 
-### 💻 Core Languages
-- **Python** — Automation, Data Manipulation, Model Training, and Scripting.
-- **C++** — High-Performance Computing, Algorithms, and Object-Oriented Logic.
-- **SQL / MySQL** — Complex Queries, Structural Normalization, and Schema Design.
-- **Bash Scripting** — Environment Configuration and Linux Automation.
+### 🤖 Artificial Intelligence & ML
+- Deep Learning Model Design
+- Predictive Analytics Systems
+- Computer Vision (OpenCV)
+- NLP-based Applications
+- Model Optimization & Tuning
 
-### 🤖 Data Science & AI Libraries
-- **PyTorch & TensorFlow** — Deep Learning Architectures and Neural Training.
-- **Scikit-Learn** — Machine Learning, Regression, Classification, and Evaluation.
-- **NumPy & Pandas** — Matrix Manipulation, Data Cleaning, and Structured Analytics.
+### ⚙️ Systems Engineering
+- Data Structures & Algorithms (Advanced)
+- Memory-efficient C++ Systems
+- Object-Oriented Architecture
+- Performance Optimization
 
-### 🚀 Dev Tools & Platforms
-- **Streamlit** — Rapid Deployment of Interactive Machine Learning Web Applications.
-- **Git & GitHub** — Version Control, Repository Architecture, and Collaborative Workflows.
-- **VS Code** — Primary Environment for Refactoring and Continuous Development.
+### 🗄️ Data Engineering
+- Relational Database Design (BCNF, 5NF)
+- Query Optimization
+- Data Modeling & Structuring
 
 ---
 
-## 📊 LIVE GITHUB STATS
-<p align="left">
-  <!-- Official verified GitHub stats server (100% Stable) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Project-By-Hassan&show_icons=true&theme=darkhub&count_private=true&hide_border=true&include_all_commits=true" height="160" alt="Hassan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Project-By-Hassan&layout=compact&theme=darkhub&hide_border=true&langs_count=5" height="160" alt="Top Languages" />
+## 💻 TECH STACK
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🧠 AI / ML Libraries
+- PyTorch  
+- TensorFlow  
+- Keras  
+- Scikit-Learn  
+- OpenCV  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Streamlit  
+
+---
+
+### 🛠 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+- Google Colab  
+- MySQL Workbench  
+- Windows  
+- Postman  
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 🤖 AI Resume Generator
+AI-powered system that generates professional resumes using NLP and structured templates.
+
+### 📄 AI PDF Extractor & Summarizer
+Extracts, cleans, and summarizes large PDF documents using NLP pipelines.
+
+### 🎯 Online Attendance System
+Face recognition-based attendance system using computer vision techniques.
+
+### 💬 Intelligent Chatbots
+Rule-based + ML hybrid chatbots for conversational automation.
+
+### ⚙️ Systems Projects
+- Student Management System (C++ OOP)
+- File Handling & Data Structure Projects
+- Algorithm Optimization Exercises
+
+---
+
+## 🎓 EDUCATION
+
+- 🏫 University: University of Rasul  
+- 🎓 Degree: BS Artificial Intelligence  
+- 📘 Semester: 3rd Semester  
+- 📍 Location: Mandi Bahuddin, Pakistan  
+
+---
+
+## 📜 CERTIFICATIONS
+
+- Coursera (AI / ML Courses)  
+- Skillsider  
+- University of Rasul (UOR) Academic Certifications  
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Project-By-Hassan&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Project-By-Hassan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Project-By-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 CONNECT WITH ME
-* 🛠️ **GitHub:** [github.com/Project-By-Hassan](https://github.com/Project-By-Hassan)
-* 📧 **Email:** Feel free to open an issue or reach out through email for AI research collaborations!
+## 🐍 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 CONTACT
+
+- 📧 Email: **hasnipbx144741@gmail.com**  
+- 🧑‍💻 GitHub: https://github.com/Project-By-Hassan  
+
+---
+
+## ⚡ PHILOSOPHY
+
+> “Good code runs. Great systems scale. Elite systems think.”
+
+---
